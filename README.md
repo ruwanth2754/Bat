@@ -25,7 +25,7 @@ This is a **basic word list generator tool** written in Python. It randomly gene
 No external libraries are required.
 
 ---
-#🧑‍💻 Author:- lasith ruwantha Amarawasha🇱🇰
+# 🧑‍💻 Author:- lasith ruwantha Amarawasha🇱🇰
 ---
 ## 🧪 How to Use
 
